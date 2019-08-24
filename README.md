@@ -2,4 +2,4 @@ Just very simple Rugby counter.
 
 #Preview
 
-![](PreviewScreenshots/RuggbyCounterAppPreview.png)
+![](PreviewScreenShots/RuggbyCounterAppPreview.png)
